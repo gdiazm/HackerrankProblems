@@ -23,3 +23,5 @@ public class SolveMeFirst {
         System.out.println(sum);
    }
 }
+
+
